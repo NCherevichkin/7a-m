@@ -1,0 +1,97 @@
+Filled container. 
+Multimethod.
+Box and share.
+It is Box: x = 3, y = 4, z = 5
+It is Sphere: r = 7
+Box and box.
+It is Box: x = 3, y = 4, z = 5
+It is Box: x = 15, y = 18, z = 25
+Box and share.
+It is Box: x = 3, y = 4, z = 5
+It is Sphere: r = 11
+Box and box.
+It is Box: x = 3, y = 4, z = 5
+It is Box: x = 7, y = 8, z = 5
+Box and share.
+It is Box: x = 3, y = 4, z = 5
+It is Sphere: r = 22
+Box and box.
+It is Box: x = 3, y = 4, z = 5
+It is Box: x = 11, y = 17, z = 21
+Box and box.
+It is Box: x = 3, y = 4, z = 5
+It is Box: x = 99, y = 78, z = 12
+Share and box.
+It is Sphere: r = 7
+It is Box: x = 15, y = 18, z = 25
+Share and Share.
+It is Sphere: r = 7
+It is Sphere: r = 11
+Share and box.
+It is Sphere: r = 7
+It is Box: x = 7, y = 8, z = 5
+Share and Share.
+It is Sphere: r = 7
+It is Sphere: r = 22
+Share and box.
+It is Sphere: r = 7
+It is Box: x = 11, y = 17, z = 21
+Share and box.
+It is Sphere: r = 7
+It is Box: x = 99, y = 78, z = 12
+Box and share.
+It is Box: x = 15, y = 18, z = 25
+It is Sphere: r = 11
+Box and box.
+It is Box: x = 15, y = 18, z = 25
+It is Box: x = 7, y = 8, z = 5
+Box and share.
+It is Box: x = 15, y = 18, z = 25
+It is Sphere: r = 22
+Box and box.
+It is Box: x = 15, y = 18, z = 25
+It is Box: x = 11, y = 17, z = 21
+Box and box.
+It is Box: x = 15, y = 18, z = 25
+It is Box: x = 99, y = 78, z = 12
+Share and box.
+It is Sphere: r = 11
+It is Box: x = 7, y = 8, z = 5
+Share and Share.
+It is Sphere: r = 11
+It is Sphere: r = 22
+Share and box.
+It is Sphere: r = 11
+It is Box: x = 11, y = 17, z = 21
+Share and box.
+It is Sphere: r = 11
+It is Box: x = 99, y = 78, z = 12
+Box and share.
+It is Box: x = 7, y = 8, z = 5
+It is Sphere: r = 22
+Box and box.
+It is Box: x = 7, y = 8, z = 5
+It is Box: x = 11, y = 17, z = 21
+Box and box.
+It is Box: x = 7, y = 8, z = 5
+It is Box: x = 99, y = 78, z = 12
+Share and box.
+It is Sphere: r = 22
+It is Box: x = 11, y = 17, z = 21
+Share and box.
+It is Sphere: r = 22
+It is Box: x = 99, y = 78, z = 12
+Box and box.
+It is Box: x = 11, y = 17, z = 21
+It is Box: x = 99, y = 78, z = 12
+Container contains 8 elements.
+0: It is Box: x = 3, y = 4, z = 5
+1: It is Sphere: r = 7
+2: It is Box: x = 15, y = 18, z = 25
+3: It is Sphere: r = 11
+4: It is Box: x = 7, y = 8, z = 5
+5: It is Sphere: r = 22
+6: It is Box: x = 11, y = 17, z = 21
+7: It is Box: x = 99, y = 78, z = 12
+Empty container. 
+Container contains 0 elements.
